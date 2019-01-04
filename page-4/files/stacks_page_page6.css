@@ -1,0 +1,503 @@
+/* GiggidyThing by RapidWeaver Central */
+
+/* Inspired by Glen Quagmire Appearing From Behind the Sofa at Meg's Sleepover */
+
+
+#giggidythingstacks_in_92_page6 {	
+	display: block;
+	position: relative;	
+}
+
+ #stacks_in_92_page6 .giggidything {
+	display: giggidy;
+	position: giggidy;
+	width: giggidy giggidy;		
+}
+
+
+#stacks_in_92_page6 .creep_direction0stacks_in_92_page6 {
+	-webkit-transform: translateY;
+	   -moz-transform: translateY;
+		-ms-transform: translateY;
+			transform: translateY;
+	-webkit-animation: down 3s;
+	   -moz-animation: down 3s;
+		-ms-animation: down 3s;
+			animation: down 3s;
+}
+
+#stacks_in_92_page6 .creep_direction1stacks_in_92_page6 {
+	-webkit-transform: translateX;
+	   -moz-transform: translateX;
+		-ms-transform: translateX;
+			transform: translateX;
+	-webkit-animation: right 3s;
+	   -moz-animation: right 3s;
+		-ms-animation: right 3s;
+			animation: right 3s;
+}
+
+#stacks_in_92_page6 .creep_direction2stacks_in_92_page6 {
+	-webkit-transform: translateY;
+	   -moz-transform: translateY;
+		-ms-transform: translateY;
+			transform: translateY;
+	-webkit-animation: up 3s;
+	   -moz-animation: up 3s;
+		-ms-animation: up 3s;
+			animation: up 3s;
+}
+
+#stacks_in_92_page6 .creep_direction3stacks_in_92_page6 {
+	-webkit-transform: translateX;
+	   -moz-transform: translateX;
+		-ms-transform: translateX;
+			transform: translateX;
+	-webkit-animation: left 3s;
+	   -moz-animation: left 3s;
+		-ms-animation: left 3s;
+			animation: left 3s;
+}
+
+
+/*	Creep Down */
+
+@-webkit-keyframes down {
+	0% {
+		opacity: 0;
+		-webkit-transform: translateY(234px);
+	}
+	
+	100% {
+		opacity: 1;
+		-webkit-transform: translateY(0);
+	}
+}
+@-moz-keyframes down {
+	0% {
+		opacity: 0;
+		-moz-transform: translateY(234px);
+	}
+	
+	100% {
+		opacity: 1;
+		-moz-transform: translateY(0);
+	}
+}
+@-ms-keyframes down {
+	0% {
+		opacity: 0;
+		-ms-transform: translateY(234px);
+	}
+	
+	100% {
+		opacity: 1;
+		-ms-transform: translateY(0);
+	}
+}
+@keyframes down {
+	0% {
+		opacity: 0;
+		transform: translateY(234px);
+	}
+	
+	100% {
+		opacity: 1;
+		transform: translateY(0);
+	}
+  
+}
+
+
+/*	Creep Right */
+
+
+@-webkit-keyframes right {
+	0% {
+		opacity: 0;
+		-webkit-transform: translateX(234px);
+	}
+	
+	100% {
+		opacity: 1;
+		-webkit-transform: translateX(0);
+	}
+}
+@-moz-keyframes right {
+	0% {
+		opacity: 0;
+		-moz-transform: translateX(234px);
+	}
+	
+	100% {
+		opacity: 1;
+		-moz-transform: translateX(0);
+	}
+}
+@-ms-keyframes right {
+	0% {
+		opacity: 0;
+		-ms-transform: translateX(234px);
+	}
+	
+	100% {
+		opacity: 1;
+		-ms-transform: translateX(0);
+	}
+}
+@keyframes right {
+	0% {
+		opacity: 0;
+		transform: translateX(234px);
+	}
+	
+	100% {
+		opacity: 1;
+		transform: translateX(0);
+	}
+  
+}
+
+
+/*	Creep Up */
+
+
+@-webkit-keyframes up {
+	0% {
+		opacity: 0;
+		-webkit-transform: translateY(-234px);
+	}
+	
+	100% {
+		opacity: 1;
+		-webkit-transform: translateY(0);
+	}
+}
+@-moz-keyframes up {
+	0% {
+		opacity: 0;
+		-moz-transform: translateY(-234px);
+	}
+	
+	100% {
+		opacity: 1;
+		-moz-transform: translateY(0);
+	}
+}
+@-ms-keyframes up {
+	0% {
+		opacity: 0;
+		-ms-transform: translateY(-234px);
+	}
+	
+	100% {
+		opacity: 1;
+		-ms-transform: translateY(0);
+	}
+}
+@keyframes up {
+	0% {
+		opacity: 0;
+		transform: translateY(-234px);
+	}
+	
+	100% {
+		opacity: 1;
+		transform: translateY(0);
+	}
+  
+}
+
+
+/*	Creep Left */
+
+
+@-webkit-keyframes left {
+	0% {
+		opacity: 0;
+		-webkit-transform: translateX(-234px);
+	}
+	
+	100% {
+		opacity: 1;
+		-webkit-transform: translateX(0);
+	}
+}
+@-moz-keyframes left {
+	0% {
+		opacity: 0;
+		-moz-transform: translateX(-234px);
+	}
+	
+	100% {
+		opacity: 1;
+		-moz-transform: translateX(0);
+	}
+}
+@-ms-keyframes left {
+	0% {
+		opacity: 0;
+		-ms-transform: translateX(-234px);
+	}
+	
+	100% {
+		opacity: 1;
+		-ms-transform: translateX(0);
+	}
+}
+@keyframes left {
+	0% {
+		opacity: 0;
+		transform: translateX(-234px);
+	}
+	
+	100% {
+		opacity: 1;
+		transform: translateX(0);
+	}
+  
+}
+
+
+
+
+
+
+
+/* QuotationThing by RapidWeaver Central  */
+
+
+
+
+#stacks_in_93_page6 #quotationthingstacks_in_93_page6 {
+	-webkit-box-sizing:border-box;
+	   -moz-box-sizing:border-box;
+			box-sizing:border-box;
+	padding: 30px 20px 20px 50px;
+	position: relative;
+}
+
+
+#stacks_in_93_page6 .quothing {
+	font-size: 10px;
+	color: rgba(0, 0, 0, 1.00);
+	line-height: 75px;
+	font-style: italic;
+	text-transform: uppercase;;
+	letter-spacing:3px;;
+	font-weight:bold;;
+	max-width: 85%;
+} 
+
+
+/* STRUCTURE 
+====================== */
+
+#stacks_in_93_page6 .rowthing  {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	align-items:  center;
+	margin-top: 20px !important; 
+	justify-content:flex-start;
+}
+
+#stacks_in_93_page6 .quotationthing {
+	position: relative;
+	overflow: hidden;
+	margin: 10px 15px 25px 15px;
+	background: rgba(255, 255, 255, 1.00);
+	color: #222222;
+	z-index: 1;
+	-webkit-border-radius: none;
+			border-radius: none;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+
+/* AUTHOR IMAGE 
+====================== */
+ 
+	#author_avatarstacks_in_93_page6 {
+	flex: 0 0 63px;
+	margin-right: 10px !important; 
+	background:  url(../files/round_static_bg_93.png);
+	width: 63px;
+	height: 63px;
+	border: 0px solid #FFFFFF;
+  	-webkit-border-radius: 50%;
+	   -moz-border-radius: 50%;
+			border-radius: 50%;
+	 
+
+}
+
+/* LABELS 
+====================== */
+
+#stacks_in_93_page6 .author {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: center;
+}
+
+
+#stacks_in_93_page6 .author span.author_label {
+	flex-basis: 80%;
+ 	font-size: 22px !important;
+	color: rgba(84, 51, 106, 1.00);
+	font-weight: 400;
+	line-height: 25px;
+	font-style: normal;;
+	text-transform: none;;
+	letter-spacing:0px;;
+	font-weight:normal;;
+}
+
+#stacks_in_93_page6 .author span.subtitle_label {
+	flex-basis:80%;
+	font-size: 14px !important;
+	color: rgba(0, 0, 0, 1.00);
+	font-weight: 200;
+	line-height: 25px;
+	font-style: normal;;
+	text-transform: none;;
+	letter-spacing:0px;;
+	font-weight:normal;;
+}
+
+
+
+/* FADE IN EFFECT
+======================  */
+
+	 
+
+	 
+
+
+/* MEDIA QUERIES 
+====================== */
+
+ @media (max-width: 480px) {
+	#stacks_in_93_page6 .quothing {
+		flex-basis: 100%;
+		text-align: center !important;
+	} 
+	#stacks_in_93_page6 .rowthing  {
+		flex-wrap: wrap;
+		align-items:  center;
+	}
+	#stacks_in_93_page6 .author  {
+		flex-basis: 100%;
+		align-content: center !important;
+		padding-bottom: 10px;
+	}
+	#stacks_in_93_page6 .author span.author_label {
+		line-height: 12px !important;
+		font-size: 1.2rem !important;
+		flex-basis: 100%;
+		text-align: center !important;
+	}
+	#stacks_in_93_page6 .author span.subtitle_label {
+		margin-top:10px !important;
+		line-height: 12px !important;
+		font-size: 0.95rem !important;
+		flex-basis: 100%;
+		text-align: center !important;
+	}
+	 
+		#author_avatarstacks_in_93_page6 {
+			margin: 0 auto 20px !important;
+		
+	}
+	#stacks_in_93_page6 .quothing:after {
+		position: absolute;
+		right:  0;
+		bottom: 126px !important;
+		z-index: -1;
+		font-size: 5px !important;
+	}
+	#stacks_in_93_page6 .quothing:before {
+		position: absolute;
+		left:  0;
+		top:0;
+		z-index: -1;
+	}
+	#stacks_in_93_page6 #quotationthingstacks_in_93_page6 {
+		padding: 20px;
+	}
+}
+
+
+
+ 
+/* SHADOWS
+======================  */
+
+.shadow-style0stacks_in_93_page6 {
+	-webkit-box-shadow: none;
+	   -moz-box-shadow: none;
+			box-shadow: none;
+}
+
+#stacks_in_93_page6 .shadow-style1stacks_in_93_page6 {
+	-webkit-box-shadow: 0px 0px 5pxpx rgba(0,0,0,0.50);
+	   -moz-box-shadow: 0px 0px 5pxpx rgba(0,0,0,0.50);
+			box-shadow: 0px 0px 5pxpx rgba(0,0,0,0.50);
+}
+
+#stacks_in_93_page6 .shadow-style1stacks_in_93_page6 {
+	margin: %(5px + 0)%px auto;
+}
+
+.shadow-style2stacks_in_93_page6 {
+	-webkit-box-shadow: inset 0px 0px 5pxpx rgba(0,0,0,0.50);
+	   -moz-box-shadow: inset 0px 0px 5pxpx rgba(0,0,0,0.50);
+			box-shadow: inset 0px 0px 5pxpx rgba(0,0,0,0.50);
+}
+
+/* QUOTE MARKS 
+====================== */
+
+#stacks_in_93_page6 .quothing:before {
+	font-family: FontAwesome;
+	content:"\f10d";
+	position: absolute;
+	left:  0px;
+	top: 50px;
+	font-size: 5px;
+	color: rgba(236, 236, 236, 1.00);
+	font-weight: normal;
+	z-index: -1;
+}
+
+#stacks_in_93_page6 .quothing:after {
+	font-family: FontAwesome;
+	content:"\f10e";
+	position: absolute;
+	right:  33px;
+	bottom: 0px;
+	line-height: 100px;
+	font-size: 10px;
+	color: rgba(236, 236, 236, 1.00);
+	font-weight: normal;
+	z-index: -1 !important;
+}
+
+/*!
+ *  Font Awesome 4.4.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
+ 
+@font-face {
+	font-family: 'FontAwesome';
+	src: url('../files/fonts/fontawesome-webfont.eot?v=4.2.0');
+	src: url('../files/fonts/fontawesome-webfont.eot?#iefix&v=4.2.0') format('embedded-opentype'), url('../files/fonts/fontawesome-webfont.woff?v=4.2.0') format('woff'), url('../files/fonts/fontawesome-webfont.ttf?v=4.2.0') format('truetype'), url('../files/fonts/fontawesome-webfont.svg?v=4.2.0#fontawesomeregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+

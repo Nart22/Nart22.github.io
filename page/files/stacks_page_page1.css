@@ -1,0 +1,419 @@
+/* GiggidyThing by RapidWeaver Central */
+
+/* Inspired by Glen Quagmire Appearing From Behind the Sofa at Meg's Sleepover */
+
+
+#giggidythingstacks_in_71_page1 {	
+	display: block;
+	position: relative;	
+}
+
+ #stacks_in_71_page1 .giggidything {
+	display: giggidy;
+	position: giggidy;
+	width: giggidy giggidy;		
+}
+
+
+#stacks_in_71_page1 .creep_direction0stacks_in_71_page1 {
+	-webkit-transform: translateY;
+	   -moz-transform: translateY;
+		-ms-transform: translateY;
+			transform: translateY;
+	-webkit-animation: down 2s;
+	   -moz-animation: down 2s;
+		-ms-animation: down 2s;
+			animation: down 2s;
+}
+
+#stacks_in_71_page1 .creep_direction1stacks_in_71_page1 {
+	-webkit-transform: translateX;
+	   -moz-transform: translateX;
+		-ms-transform: translateX;
+			transform: translateX;
+	-webkit-animation: right 2s;
+	   -moz-animation: right 2s;
+		-ms-animation: right 2s;
+			animation: right 2s;
+}
+
+#stacks_in_71_page1 .creep_direction2stacks_in_71_page1 {
+	-webkit-transform: translateY;
+	   -moz-transform: translateY;
+		-ms-transform: translateY;
+			transform: translateY;
+	-webkit-animation: up 2s;
+	   -moz-animation: up 2s;
+		-ms-animation: up 2s;
+			animation: up 2s;
+}
+
+#stacks_in_71_page1 .creep_direction3stacks_in_71_page1 {
+	-webkit-transform: translateX;
+	   -moz-transform: translateX;
+		-ms-transform: translateX;
+			transform: translateX;
+	-webkit-animation: left 2s;
+	   -moz-animation: left 2s;
+		-ms-animation: left 2s;
+			animation: left 2s;
+}
+
+
+/*	Creep Down */
+
+@-webkit-keyframes down {
+	0% {
+		opacity: 0;
+		-webkit-transform: translateY(246px);
+	}
+	
+	100% {
+		opacity: 1;
+		-webkit-transform: translateY(0);
+	}
+}
+@-moz-keyframes down {
+	0% {
+		opacity: 0;
+		-moz-transform: translateY(246px);
+	}
+	
+	100% {
+		opacity: 1;
+		-moz-transform: translateY(0);
+	}
+}
+@-ms-keyframes down {
+	0% {
+		opacity: 0;
+		-ms-transform: translateY(246px);
+	}
+	
+	100% {
+		opacity: 1;
+		-ms-transform: translateY(0);
+	}
+}
+@keyframes down {
+	0% {
+		opacity: 0;
+		transform: translateY(246px);
+	}
+	
+	100% {
+		opacity: 1;
+		transform: translateY(0);
+	}
+  
+}
+
+
+/*	Creep Right */
+
+
+@-webkit-keyframes right {
+	0% {
+		opacity: 0;
+		-webkit-transform: translateX(246px);
+	}
+	
+	100% {
+		opacity: 1;
+		-webkit-transform: translateX(0);
+	}
+}
+@-moz-keyframes right {
+	0% {
+		opacity: 0;
+		-moz-transform: translateX(246px);
+	}
+	
+	100% {
+		opacity: 1;
+		-moz-transform: translateX(0);
+	}
+}
+@-ms-keyframes right {
+	0% {
+		opacity: 0;
+		-ms-transform: translateX(246px);
+	}
+	
+	100% {
+		opacity: 1;
+		-ms-transform: translateX(0);
+	}
+}
+@keyframes right {
+	0% {
+		opacity: 0;
+		transform: translateX(246px);
+	}
+	
+	100% {
+		opacity: 1;
+		transform: translateX(0);
+	}
+  
+}
+
+
+/*	Creep Up */
+
+
+@-webkit-keyframes up {
+	0% {
+		opacity: 0;
+		-webkit-transform: translateY(-246px);
+	}
+	
+	100% {
+		opacity: 1;
+		-webkit-transform: translateY(0);
+	}
+}
+@-moz-keyframes up {
+	0% {
+		opacity: 0;
+		-moz-transform: translateY(-246px);
+	}
+	
+	100% {
+		opacity: 1;
+		-moz-transform: translateY(0);
+	}
+}
+@-ms-keyframes up {
+	0% {
+		opacity: 0;
+		-ms-transform: translateY(-246px);
+	}
+	
+	100% {
+		opacity: 1;
+		-ms-transform: translateY(0);
+	}
+}
+@keyframes up {
+	0% {
+		opacity: 0;
+		transform: translateY(-246px);
+	}
+	
+	100% {
+		opacity: 1;
+		transform: translateY(0);
+	}
+  
+}
+
+
+/*	Creep Left */
+
+
+@-webkit-keyframes left {
+	0% {
+		opacity: 0;
+		-webkit-transform: translateX(-246px);
+	}
+	
+	100% {
+		opacity: 1;
+		-webkit-transform: translateX(0);
+	}
+}
+@-moz-keyframes left {
+	0% {
+		opacity: 0;
+		-moz-transform: translateX(-246px);
+	}
+	
+	100% {
+		opacity: 1;
+		-moz-transform: translateX(0);
+	}
+}
+@-ms-keyframes left {
+	0% {
+		opacity: 0;
+		-ms-transform: translateX(-246px);
+	}
+	
+	100% {
+		opacity: 1;
+		-ms-transform: translateX(0);
+	}
+}
+@keyframes left {
+	0% {
+		opacity: 0;
+		transform: translateX(-246px);
+	}
+	
+	100% {
+		opacity: 1;
+		transform: translateX(0);
+	}
+  
+}
+
+
+
+
+
+
+
+#shadyStackstacks_in_75_page1 {
+	-webkit-box-shadow:  -2px 2px 8px 4px rgba(0, 0, 0, 1.00);
+	box-shadow:  -2px 2px 8px 4px rgba(0, 0, 0, 1.00);
+	border-radius: 0px;
+}
+
+
+
+
+#shadyStackstacks_in_75_page1 {
+	margin: 15px;
+}
+
+
+@media print {
+	#shadyStackstacks_in_75_page1 {
+		margin: 0;
+		-webkit-box-shadow: none;
+		box-shadow: none;
+		border-radius: 0px;
+	}
+}/* HalfCutThing by RapidWeaver Central */
+
+#headcutthingstacks_in_77_page1 {
+	overflow: hidden;
+	position: relative;
+	margin: 0 auto !important;
+	padding: 0;
+	display: block;
+	width: auto;
+}
+
+#stacks_in_77_page1 .backHeading {
+	display: block;
+	margin: auto;
+	padding: 1em .5em .5em;
+	font-weight: 900;
+	text-align: center;
+	font-size: 48px;
+	color: #16595F;
+	line-height: 36px;
+	
+	width: 8em;
+}
+
+#stacks_in_77_page1 .frontSub {
+	width: 100%;
+	display: inline-block;
+	margin: .5em -5px 0 -5px;
+	line-height: 10px;
+	
+	padding-top: 10px;
+	background-color: #000000;
+	border-top: 2px solid #BBA48B;
+	border-bottom: 2px solid #BBA48B;
+	text-align: center;
+	font-size: 18px;
+	color: #BBA48B;
+	text-shadow: 0 1px 0px #333333;
+	text-shadow:none;
+	text-transform: none;;
+	letter-spacing:0px;;
+	font-weight:normal;;
+	font-style:normal;;
+}
+
+#stacks_in_77_page1 .frontSub:after {
+	content: "";
+	display: inline-block;
+	width: 100%;
+}
+
+#stacks_in_78_page1 {
+	font-size: 61%;
+	font-weight: bolder;
+}
+#linkBoxstacks_in_81_page1 {
+	display: block;
+	position: relative;
+	z-index: 1;
+}
+
+#linkBoxContentstacks_in_81_page1 {
+	position: relative;
+	display: block;
+	z-index: 2;
+}
+
+#linkBoxLinkstacks_in_81_page1 a {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	height: 100%;
+	width: 100%;
+	z-index: 10;
+	background: url(../files/bg_fill.gif) repeat;
+}/* TriangleThing by RapidWeaver Central */
+
+#trianglethingstacks_in_80_page1 {
+	display: block;
+	position: relative;
+}
+
+
+/* Down */
+
+.orientation0stacks_in_80_page1 {
+  width: 0; 
+   height: 0;
+   border-top: 53px solid #7D7193;
+   border-left: 59px  solid transparent; 
+   border-right: 59px  solid transparent; 
+
+
+}
+
+
+/* Up */
+
+.orientation1stacks_in_80_page1 {
+ 	width: 0;
+	height: 0;
+	border-left: 59px solid transparent;
+	border-right: 59px solid transparent;
+	border-bottom: 53px solid #7D7193;
+}
+
+
+/* Left */
+
+.orientation2stacks_in_80_page1 {
+	width: 0;
+	height: 0;
+	border-top: 59px solid transparent;
+	border-right: 53px solid #7D7193;
+	border-bottom: 59px solid transparent;
+	float: right;
+	display: block;
+}
+
+
+/* Right */
+
+.orientation3stacks_in_80_page1 {
+	width: 0;
+	height: 0;
+	border-top: 59px solid transparent;
+	border-left: 53px solid #7D7193;
+	border-bottom: 59px solid transparent;
+}
+
+
